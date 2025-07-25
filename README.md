@@ -7,3 +7,8 @@ In this project I have done comprehensive exploratory data analysis (EDA) of cus
 ## OBJECTIVE ##
 The Project deals with investigating the factors which affect the customer churn.
 
+## CONCLUSION ##
+• Promoting long term contracts for customers to reduce the observed high churn rate.
+• Address Payment method concerns so that the reliable methods may bring low churn rate.
+• Special senior citizen retention programs providing an extra service to retain the customers.
+• Customer Engagement in early tenure to have feedback of different fiber optic equipments.
